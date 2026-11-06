@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+expenses.db
+app_backup.py
+VAULT_AI_Monthly_Report.pdf
